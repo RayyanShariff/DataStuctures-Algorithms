@@ -1,7 +1,7 @@
 # Java Data Structures and Algorithm Labs
 
 ## Overview
-This repository contains various lab assignments for learning different data structures and algorithms in Java. It is part of the F28SG Introduction to Data Structures and Algorithms  course at Heriot-Watt University Each lab focuses on a specific topic and includes source code and tests.
+This repository contains various lab assignments for learning different data structures and algorithms in Java. It is part of the F28SG Introduction to Data Structures and Algorithms course at Heriot-Watt University. Each lab focuses on a specific topic and includes source code and tests.
 
 ## Lab Structure
 
